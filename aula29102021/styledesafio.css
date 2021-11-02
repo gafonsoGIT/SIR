@@ -1,0 +1,20 @@
+.alinhar {
+    text-align: center;
+}
+
+.cor:hover{
+    background-color: green;
+}
+
+.imagem{
+    width: 10%;
+    height: 15%;
+}
+
+a.loja:visited{
+    color: black;
+}
+
+.fundo{
+    background-color: greenyellow;
+}

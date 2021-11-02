@@ -1,0 +1,37 @@
+.principal {
+    background-color: red;
+    width: 50vw;
+    height: 50vh;    
+}
+
+.conteudo {
+    background-color: yellow;
+    width: 50%;
+    height: 50%;
+}
+
+.item {
+    font-size: 1.4em;
+}
+
+/* p::first-letter{
+    color: green;
+} */
+
+/* #item {
+    color: green;
+}
+
+.ola {
+    color: red;
+} */
+
+/* p::after{
+    content: ' PARAGRAFO';
+    color: red;
+}
+
+p::before {
+    content: 'topico';
+    color: yellow;
+} */
